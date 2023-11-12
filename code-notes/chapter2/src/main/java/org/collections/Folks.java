@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Folks {
   public static final List<String> friends =
-      Arrays.asList("Brian", "Nate", "Neal", "Raju", "Sara", "Scott");
+      Arrays.asList("Brian", "Nate", "Neal", "Raju", "Sara", "Scott", "George");
 
   public static final List<String> editors =
       Arrays.asList("Brian", "Jackie", "John", "Mike");
